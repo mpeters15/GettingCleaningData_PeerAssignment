@@ -8,9 +8,9 @@ Human Activity Recognition Using Smartphones
 
 ##### Files:
 
-`<CodeBook.md>` is a code book that describes the variables, data, and any transformations or work that was performed to tidy the data.
+`<CodeBook.md>` is a code book that describes the variables, data, and  transformations that wsere performed to tidy the data.
 
-`<run_analysis.R>` performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
+`<run_analysis.R>` performs the data preparation and the following 5 steps as outlined in the course project’s definition:
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
